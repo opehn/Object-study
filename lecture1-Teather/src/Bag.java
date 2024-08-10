@@ -11,7 +11,7 @@ public class Bag {
         return amount;
     }
 
-    public Bag(Invitation invitation, long amount){
+    public Bag(Invitation invitation, long amount) {
         this.invitation = invitation;
         this.amount = amount;
     }
